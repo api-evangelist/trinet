@@ -1,0 +1,125 @@
+aid: trinet
+name: TriNet
+description: >-
+  TriNet is a Dublin, California-based professional employer organization
+  (PEO) for small and mid-market businesses, founded in 1988 by Martin
+  Babinec and led today by President and CEO Mike Simonds. TriNet delivers
+  full-service HR through a co-employment model — payroll processing,
+  Fortune-500-grade health, retirement and ancillary benefits, workers'
+  compensation, employment-practices liability coverage, compliance and risk
+  management, and strategic HR advisory — to thousands of SMBs across the
+  United States. The company offers two main packages: TriNet PEO (full
+  co-employment) and HR Plus (technology platform plus support). TriNet is
+  publicly traded on the NYSE as TNET with trailing-twelve-month revenue of
+  roughly $5.0B as of FY2025. TriNet exposes its HR Customer Platform through
+  three SwaggerHub-documented API groups — DCP, HRIS, and PEO — covering
+  Employees, Companies, Payroll, Money, and Time-Off domains, with API
+  credentials issued to approved customers and Integration Center partners
+  rather than offered as a fully open developer program; OpenAPI/Swagger,
+  Postman/Insomnia collections, a sandbox, OAuth playground, and webhook
+  management are available to authorized developers. Public 1:1 API access
+  typically requires partner-program qualification and technical review,
+  which is why most TriNet customers consume the platform via the curated
+  Integration Center marketplace (accounting, HRIS, identity, ATS, payroll,
+  benefits and learning partners) or via unified-API aggregators such as
+  Finch, Merge, Apideck and Truto.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - HR
+  - Human Resources
+  - PEO
+  - Professional Employer Organization
+  - Payroll
+  - Benefits
+  - HRIS
+  - HCM
+  - Workforce Management
+  - Time Off
+  - Compliance
+  - Mid-Market
+  - Small Business
+  - Co-Employment
+url: https://raw.githubusercontent.com/api-evangelist/trinet/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.trinet.com
+  - type: About
+    url: https://www.trinet.com/about-us
+  - type: Portal
+    url: https://developers.trinet.com/
+  - type: Documentation
+    url: https://trinet.portal.swaggerhub.com/
+  - type: Documentation
+    name: TriNet PEO HR Customer Platform APIs (SwaggerHub)
+    url: https://trinet.portal.swaggerhub.com/peo
+  - type: Documentation
+    name: TriNet PEO HCM SaaS HR Customer Platform APIs (SwaggerHub)
+    url: https://trinet.portal.swaggerhub.com/hris
+  - type: Documentation
+    name: TriNet DCP HR Customer Platform APIs (SwaggerHub)
+    url: https://trinet.portal.swaggerhub.com/dcp
+  - type: Documentation
+    name: TriNet API Portal
+    url: https://apidocs.trinet.com/
+  - type: Product
+    name: TriNet PEO
+    url: https://www.trinet.com/peo
+  - type: Product
+    name: HR Plus
+    url: https://www.trinet.com/solutions/hr-plus
+  - type: Product
+    name: Payroll
+    url: https://www.trinet.com/hr-services/payroll
+  - type: Product
+    name: Benefits
+    url: https://www.trinet.com/hr-services/benefits
+  - type: Product
+    name: Time Off
+    url: https://www.trinet.com/hr-services/technology-platform/time-off
+  - type: Product
+    name: Time and Scheduling
+    url: https://www.trinet.com/solutions/hr-plus/hr-platform/time-and-scheduling
+  - type: Integrations
+    name: Integration Center
+    url: https://www.trinet.com/hr-services/technology-platform/integration-center
+  - type: Integrations
+    name: Integration Center API
+    url: https://www.trinet.com/hr-services/technology-platform/integration-center/api
+  - type: Marketplace
+    name: TriNet Marketplace
+    url: https://www.trinet.com/hr-services/technology-platform/marketplace
+  - type: Partners
+    name: Marketplace Partners
+    url: https://www.trinet.com/partners/marketplace-partners
+  - type: Blog
+    url: https://www.trinet.com/insights
+  - type: Newsroom
+    url: https://www.trinet.com/about-us/newsroom
+  - type: Careers
+    url: https://www.trinet.com/about-us/careers
+  - type: InvestorRelations
+    url: https://investor.trinet.com/
+  - type: Contact
+    url: https://www.trinet.com/contact-us
+  - type: Twitter
+    url: https://twitter.com/TriNet
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trinet
+  - type: YouTube
+    url: https://www.youtube.com/user/TriNetGroup
+  - type: Facebook
+    url: https://www.facebook.com/TriNet
+  - type: PrivacyPolicy
+    url: https://www.trinet.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.trinet.com/terms-of-use
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
